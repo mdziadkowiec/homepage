@@ -1,0 +1,45 @@
+<hr/>
+<div class="row triple-row">
+  <div id="triple-first" class="span4 triple">
+    <div class="zone zone-triple-first">
+      <article class="widget-triple-first widget-html-widget widget">
+        <header>
+          <h1><a href="http://en.wikipedia.org/wiki/Ikigai">生き甲斐 (Ikigai)</a></h1>
+        </header>
+        
+        <p>
+          <strong>Ciągle poszukuję nowych wyzwań!</strong><br>
+          <small>Swoją wiedzę zdobywam przez samokształcenie. Na co dzień zajmuję się tworzeniem aplikacji iOS oraz nietypowych aplikacji internetowych. Prowadzę również autorskie szkolenia z tych tematów.</small>
+        </p>
+      </article>
+    </div>
+  </div>
+  <div id="triple-second" class="span4 triple">
+    <div class="zone zone-triple-second">
+      <article class="widget-triple-second widget-html-widget widget">
+      </article>
+    </div>
+  </div>
+  <div id="triple-third" class="span4 triple">
+    <div class="zone zone-triple-third">
+      <article id="about-widget" class="widget-triple-third widget-html-widget widget">
+        <header>
+          <h1>Kontakt</h1>
+        </header>
+        <p>
+          Michał Dziadkowiec<br>
+          <i class="icon-map-marker"></i> Kraków, Poland<br>
+          {%- if site.email -%}
+          <i class="icon-envelope"></i> <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+          {%- endif -%}
+        </p>
+        {%- include social.html -%}
+      </article>
+    </div>
+  </div>
+</div>
+
+<hr>
+<footer id="footer" class="row">
+  <div class="copyright span12"><em>"Stay Hungry. Stay Foolish."</em></div>
+</footer>
