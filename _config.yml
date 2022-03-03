@@ -22,14 +22,14 @@ title: Michał Dziadkowiec – iOS Geek Developer & Apple Fan
 email: michal@macdev.pl
 address: Kraków, Poland
 subtitle: >- # this means to ignore newlines until next key
-  iOS Geek Developer & Apple Fan
+  I gain my knowledge through self-education and I share my experiences with others.
 description: >- # this means to ignore newlines until "baseurl:"
-  Swoją wiedzę zdobywam przez samokształcenie. Na co dzień zajmuję się tworzeniem aplikacji iOS oraz nietypowych aplikacji internetowych. Prowadzę również autorskie szkolenia z tych tematów.
+  On a daily basis, I create iOS applications and unusual internet applications together with my team of artisans.io. I also conduct original programming trainings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-lang: pl
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://michal.dziadkowiec.pl" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+twitter_username: mdziadkowiec
+github_username:  mdziadkowiec
 
 # Build settings
 # theme: minima
