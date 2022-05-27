@@ -17,7 +17,7 @@ I started programing using Turbo Pascal when I was 8 years old. I quickly learn 
 
 ## WorkShops & Trainings
 
-As a student of [University of Science & Technology](https://www.agh.edu.pl/), I was a Chair Man of [MacKN](https://www.mackn.agh.edu.pl/) where I gave open lectures about iPhone Apps Development. After that, I started proving close workshops for the biggest tech companies in Poland. I was providing trainings for companies like Allegro, Comarch, and Volvo IT. My trainings were about Modern Web Apps Development (topics related to HTML5/CSS3 and JavaScript) and iPhone Development (in both Objective-C since 2008 and Swift since 2015).
+As a student of [University of Science & Technology](https://www.agh.edu.pl/), I was a Chair Man of [MacKN](https://www.mackn.agh.edu.pl/) where I gave open lectures about iPhone Apps Development. After that, I started providing close workshops for the biggest tech companies in Poland. I was providing trainings for companies like Allegro, Comarch, and Volvo IT. My trainings were about Modern Web Apps Development (topics related to HTML5/CSS3 and JavaScript) and iPhone Development (in both Objective-C since 2008 and Swift since 2015).
 
 ## Knowleadge & Experience
 
